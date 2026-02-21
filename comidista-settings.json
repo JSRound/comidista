@@ -5,14 +5,33 @@
     "objetivo": "Comer más sano",
     "restricciones": "ninguna",
     "tiempoCocina": "menos_30min",
-    "comidasPlanificadas": ["comida", "cena"]
+    "comidasPlanificadas": [
+      "comida",
+      "cena"
+    ]
   },
   "preferencias": {
-    "meGusta": ["carne roja", "pasta", "arroz", "legumbres", "espinacas", "fideua", "solomillo de cerdo", "escalopines de cerdo", "ramen"],
-    "evito": ["sopa"]
+    "meGusta": [
+      "carne roja",
+      "pasta",
+      "arroz",
+      "legumbres",
+      "espinacas",
+      "fideua",
+      "solomillo de cerdo",
+      "escalopines de cerdo",
+      "ramen",
+      "huevos"
+    ],
+    "evito": [
+      "sopa"
+    ]
   },
   "diasRapidos": {
     "descripcion": "Solo la comida de estos días es ultra-rápida (≤10 min). La cena siempre es normal.",
-    "dias": ["Lunes", "Miércoles"]
+    "dias": [
+      "Lunes",
+      "MiÃ©rcoles"
+    ]
   }
 }

@@ -1,0 +1,18 @@
+{
+  "version": "1.0",
+  "updated": "2026-02-21",
+  "profile": {
+    "objetivo": "Comer más sano",
+    "restricciones": "ninguna",
+    "tiempoCocina": "menos_30min",
+    "comidasPlanificadas": ["comida", "cena"]
+  },
+  "preferencias": {
+    "meGusta": ["carne roja", "pasta", "arroz", "legumbres", "espinacas", "fideua", "solomillo de cerdo", "escalopines de cerdo", "ramen"],
+    "evito": ["sopa"]
+  },
+  "diasRapidos": {
+    "descripcion": "Solo la comida de estos días es ultra-rápida (≤10 min). La cena siempre es normal.",
+    "dias": ["Lunes", "Miércoles"]
+  }
+}
